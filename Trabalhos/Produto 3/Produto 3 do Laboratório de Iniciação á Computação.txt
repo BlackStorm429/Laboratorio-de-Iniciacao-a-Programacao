@@ -1,0 +1,48 @@
+1) https://www.youtube.com/watch?v=mK3NQ7LPRqI
+
+Vídeo que demonstra a utilização do arduíno para o controle de três motores independentes, através de um display LCD touchscreen. No vídeo também se mostra um monitor de temperatura com ajuste de alerta e um painel superior de monitoramento de parâmetros elétricos.
+
+
+2)https://blog.eletrogate.com/o-que-e-arduino-para-que-serve-vantagens-e-como-utilizar/
+
+Site que apresenta o arduíno, explicando o que ele é, como e quando ele surgiu e também porque utilizar ele. O site também explica como o arduíno funciona, falando sobre software e hardware. Além do mais, ele dá um exemplo de projeto em que se pode encontrar o arduíno, falando de como é a montagem e a programação.
+
+
+3) https://www.arduino.cc/reference/pt/
+
+Documentação de referência da linguagem do arduíno. Nessa documentação há a explicação do que as funções, variáveis e estruturas são e há também os tipos de cada um, com várias opções de dados que são utilizados e necessários para o funcionamento de um código.
+
+
+4) https://www.nucleodoconhecimento.com.br/educacao/arduino-e-educacao
+
+Artigo científico que busca experimentar o uso de tecnologias para o letramento musical em instrumentos de sopro, mais especificamente o clarinete. O artigo fala da experimentação na utilização do arduíno ao ser associado a instrumentos de sopro, reconhecendo notas na escala natural e associando elas às cores do arco-íris.
+
+
+5) https://www.lambda3.com.br/2021/03/lambda3-podcast-239-tudo-sobre-arduino/
+
+Podcast que fala o que é um arduíno, de onde ele veio, para que ele serve, como é o desenvolvimento dele na prática, os tipos de projetos possíveis de se fazer com ele, se ele tem aplicações comerciais e por onde se começa. Basicamente um podcast para iniciantes que desejam aprender mais sobre o arduíno.
+
+
+6) https://www.youtube.com/watch?v=ragDzQl97dw
+
+Vídeo que demonstra a apresentação da plataforma do tinkercad e uma pequena explicação para os iniciantes na utilização da plataforma. A moça do vídeo faz a utilização de um componente arduíno, um monitor LCD, um potenciômetro e uma placa de ensaio. Ela demonstra a funcionalidade desses componentes usando código C.
+
+
+7) https://www.embarcados.com.br/tinkercad/
+
+Site que apresenta uma introdução sobre o que é o tinkercad e para que ele é utilizado. Além de explicar de forma básica como montar seu primeiro projeto, mostrando que há vários tipos de componentes para montar um circuito e que a programação do circuito pode ser feita através de blocos ou texto. Também fala que para testar seu circuito basta apertar o botão "Iniciar Simulação".
+
+
+8) https://docplayer.com.br/65200375-Apostila-de-introducao-ao-tinkercad-antigo-circuits-io.html
+
+Documentação que ensina com detalhes a utilizar o tinkercad, utilizando textos e imagens para isso. O documento mostra e explica cada uma das funções existentes no tinkercad para que o leitor tenha uma base do que é possível fazer na plataforma. Além disso, lá há exercícios para que quem está lendo crie circuitos.
+
+
+9) https://encuentros.virtualeduca.red/storage/ponencias/lisboa2020/zQNNeuLiEiwQlwEhHcbN8Xu3x2le9Ls1La2mZN2c.pdf
+
+Artigo científico que busca experimentar a utilização do Tinkercad - Code Blocks na elaboração de animações gráficas 3D para o apoio ao ensino de Engenharia. Devido ao fato de o tinkercad ser uma plataforma online, gratuita e mais fácil de ser utilizada, virou uma alternativa para que os professores da engenharia ensinem e seus alunos aprendam.
+
+
+10) https://open.spotify.com/show/112V2syGzypXFmQVuRn5S4
+
+É um podcast que tem o foco em falar sobre como estudantes podem utilizar o tinkercad como forma de aprendizado. Esse público pode utilizar a plataforma para criar projetos 3D em seus computadores ou celulares, principalmente porque é uma plataforma fácil de se utilizar. Além de já haverem certos modelos prontos que você pode pegar e incrementar o que quiser, sem começar do zero.

@@ -1,0 +1,30 @@
+Membros: Arthur de Sá Camargo, Áulus Arcanjo Alves Batista, Lara Brígida Rezende Souza e Rodrigo Carvalho Mosqueira.
+
+
+URL do projeto no site codesandbox:
+
+https://codesandbox.io/s/produto-9-ferramenta-de-aprendizagem-2hb8j0
+
+
+URL do site publicado no codesandbox:
+
+https://2hb8j0.csb.app/#arduino-e-tinkercad
+
+
+Autoavaliação:
+
+Nota: 30
+
+Cumprimos todos os requisitos necessários no projeto (colocamos links, vídeos, documentos sobre tinkercad e arduino, colocamos uma linkagem para o GitHub, colocamos os projetos do Scratch, SLnova, e AppInventor, fizemos um bot, compartilhamos os projetos do 
+
+Tinkercad interligando dois Arduinos e incluímos iframes no site).
+
+
+Ponto extra: 30
+
+- Mesclamos vários projetos no site.
+
+- Caso os códigos do Tinkercad se comuniquem com um Arduino físico achamos que merecemos pontos extra.
+
+- O site está todo com css e está responsivo, está realmente com a aparência de um site.
+

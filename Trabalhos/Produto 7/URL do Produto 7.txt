@@ -1,0 +1,22 @@
+Grupo formado por: Áulus Arcanjo Alves Batista, Lara Brígida Rezende Souza e Andre Mateus Fonseca Neves.
+
+
+URL do site contendo projeto:
+
+https://trabalhosimulacaoslnova.blackstorm429.repl.co
+
+
+URL do projeto:
+
+https://www.slnova.org/Blackstorm429/projects/847375/ (simulação Lara)
+
+https://www.slnova.org/HZP/projects/847390/ (simulação Áulus)
+
+https://www.slnova.org/andremateusfn/projects/846529/ (simulação Andre)
+
+
+Autoavaliação:
+
+Fizemos versões diferentes para englobar mais possibilidades de presa X predador, abordando, além da relação de predar, também a gestação dos animais envolvidos. Sendo assim, achamos que o nosso trabalho vale 10.
+
+Também colocamos links integrados no site do projeto sobre o SLnova e sobre Agent Based Model. Assim, achamos que merecemos ponto extra (não sabemos até quantos pontos extras vai o trabalho), mas talves uns 7 pontos extras

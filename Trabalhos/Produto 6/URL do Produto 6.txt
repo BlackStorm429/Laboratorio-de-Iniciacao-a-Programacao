@@ -1,0 +1,20 @@
+Grupo formado por: Áulus Arcanjo Alves Batista, Lara Brígida Rezende Souza e Rodrigo Carvalho Mosqueira.
+
+Auto Avaliação: 
+
+Nota:15
+
+Justificativa: É um jogo funcional que utiliza ganhadores do prêmio Turing Awards, como nosso grupo tem 3 membros, contém 6 ganhadores do prêmio, sendo 3 homens e 3 mulheres.
+O trabalho também contém atores que representam ganhadores adicionais/atores que representam personagens relevantes Brasileiros e não Brasileiros da Ciência da Computação que não são ganhadores do prêmio Turing.
+
+Achamos que merecemos pontos extras (não sabemos até quantos pontos extras o trabalho vai), mas achamos que talvez uns 9 pontos extras, pois colocamos personagens a mais, incluindo ganhadores adicionais do prêmio Turing e também brasileiros importantes no cenário da Ciência da Computação.
+
+
+URL do site com o jogo: 
+
+https://trabalhojogopremioturing.blackstorm429.repl.co
+
+
+URL do Studio no site Scratch: 
+
+https://scratch.mit.edu/studios/31369165
